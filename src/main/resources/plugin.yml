@@ -1,0 +1,11 @@
+name: Features
+version: '${project.version}'
+main: somefeatures.features.Features
+api-version: 1.19
+prefix: "xFeatures"
+authors: [ JohnLienau, TheZitroX ]
+description: Gives some nice commands
+website: github.com/thezitrox
+
+commands:
+  setParticle:
